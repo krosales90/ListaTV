@@ -1,14 +1,116 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy96zqmcg132nxr58"
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="" group-title="(no group)" tvg-shift="-5",ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAX" tvg-logo="" group-title="(no group)" tvg-shift="-5",ANIMAX
-https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7.2" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : ENTRETENIMIENTO : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : ENTRETENIMIENTO : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="AZTECA UNO" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA UNO
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=27&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA UNO HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=21&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7 (2)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7 HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=317&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD (2)" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7 HD (2)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=322&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7.2" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7.3 (CLASES)" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7.3 (CLASES)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3316&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CLIC HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=11&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CORAZON
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=70&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Azmundo.mx" tvg-name="AZ MUNDO" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ MUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=84&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="a-plus.mx" tvg-name="A+" tvg-logo="" group-title="(no group)" tvg-shift="-5",A+
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMAGEN TV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",IMAGEN TV HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://iptvmexico.weebly.com/uploads/4/6/7/1/46710589/1608365_orig.png" group-title="(no group)" tvg-shift="-5",LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=17&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Lasestrellas.mx" tvg-name="LAS ESTRELLAS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",LAS ESTRELLAS HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="https://iptvmexico.weebly.com/uploads/4/6/7/1/46710589/4045599_orig.png" group-title="(no group)" tvg-shift="0",CANAL 5
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=20&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 HD (2)" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 5 HD (2)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="(no group)" tvg-shift="-5",TELEMUNDO
+http://user.tvcluboficial.com/stream/nov/Nov/92.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEMUNDO INTERNACIONAL HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/univision.png" group-title="(no group)" tvg-shift="-5,Univision
+http://user.tvcluboficial.com/stream/nov/Nov/99.m3u8
+#EXTINF:-1 tvg-id="nu9ve.mx" tvg-name="NU9VE" tvg-logo="" group-title="(no group)" tvg-shift="-5",NU9VE
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=24&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="nu9ve.mx" tvg-name="NU9VE HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",NU9VE HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="canal11.mx" tvg-name="ONCE" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=25&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="canal11.mx" tvg-name="ONCE HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="" group-title="(no group)" tvg-shift="-5",E!
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=55&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICABLE SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNICABLE
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=66&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICABLE" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNICABLE 2
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",SUNDANCE TV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=69&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLITZ" tvg-logo="" group-title="(no group)" tvg-shift="-5",GLITZ
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=76&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOURMET" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOURMET
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISTRITO COMEDIA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISTRITO COMEDIA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=78&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="TL NOVELAS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TL NOVELAS
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=83&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="holatv.co" tvg-name="HOLA TV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",HOLA TV HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=219&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="(no group)" tvg-shift="-5",COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=340&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="comedycentral.lac" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",COMEDY CENTRAL 2
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=341&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MAS CHIC" tvg-logo="" group-title="(no group)" tvg-shift="-5",MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="antena3.co" tvg-name="ANTENA 3" tvg-logo="" group-title="(no group)" tvg-shift="-5",ANTENA 3
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=199&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFORMULA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEFORMULA SD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=32&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXIQUENSE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",MEXIQUENSE TV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=44&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS MTY" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS MTY" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS MTY (2)
+http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS CDMX
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2352&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS CDMX (2)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APREDNE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",APREDNE TV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=401&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MVS TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",MVS TV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2149&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVC
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="canal-4.mx" tvg-name="CANAL 4" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 4
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2274&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 8" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 8
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2307&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA PUEBLA" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVMAS" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVMAS
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2324&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACADEMIA" tvg-logo="" group-title="(no group)" tvg-shift="-5",ACADEMIA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2703&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAX" tvg-logo="" group-title="(no group)" tvg-shift="-5",ANIMAX
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 26 AGUASCALIENTES" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-id="Lista TV" tvg-name="DREIKO TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",DREIKO TV
@@ -31,8 +133,6 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="Lista TV" tvg-name="MAGIC KIDS" tvg-logo="" group-title="(no group)" tvg-shift="-5",MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS MTY" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
 #EXTINF:-1 tvg-id="Lista TV" tvg-name="NET TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",NET TV
 http://regioplay.xyz/php/SR_REGIO_411112_/nettv.php?f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAKA PAKA" tvg-logo="" group-title="(no group)" tvg-shift="-5",PAKA PAKA
@@ -45,130 +145,74 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-id="Lista TV" tvg-name="WOW TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",WOW TV
 https://regioplay.xyz/php/SR_REGIO_411112_/wowtv.php
-#EXTINF:-1 tvg-id="Lista TV" tvg-name="Star Channel" tvg-logo="" group-title="(no group)" tvg-shift="-5",Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONCE NINOS (CLASES)" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE NINOS (CLASES)
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3315&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7.3 (CLASES)" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7.3 (CLASES)
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3316&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CLIC HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=11&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Canal de las Estrellas" tvg-logo="https://iptvmexico.weebly.com/uploads/4/6/7/1/46710589/1608365_orig.png" group-title="(no group)" tvg-shift="-5",Canal de las Estrellas
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=17&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="https://iptvmexico.weebly.com/uploads/4/6/7/1/46710589/4045599_orig.png" group-title="(no group)" tvg-shift="0",CANAL 5
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=20&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="(no group)" tvg-shift="-5",Azteca 7
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=21&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="nu9ve.mx" tvg-name="NU9VE" tvg-logo="" group-title="(no group)" tvg-shift="-5",NU9VE
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=24&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="canal11.mx" tvg-name="ONCE" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=25&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AZTECA UNO" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=27&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEFORMULA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEFORMULA SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=32&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXIQUENSE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",MEXIQUENSE TV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CORAZON
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=70&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Azmundo.mx" tvg-name="AZ MUNDO" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ MUNDO
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=84&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7 HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=317&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD (2)" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZTECA 7 HD (2)
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=322&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",IMAGEN TV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2298&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS MTY" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2305&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APREDNE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",APREDNE TV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=401&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1253&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="nu9ve.mx" tvg-name="NU9VE HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Lasestrellas.mx" tvg-name="LAS ESTRELLAS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",LAS ESTRELLAS HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5 HD (2)" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="canal11.mx" tvg-name="ONCE HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1942&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MVS TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",MVS TV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVC
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2156&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="canal-4.mx" tvg-name="CANAL 4" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 4
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2274&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 8" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL 8
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2307&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVISA PUEBLA" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="a-plus.mx" tvg-name="A+" tvg-logo="" group-title="(no group)" tvg-shift="-5",A+
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVMAS" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVMAS
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2324&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DEL CONGRESO" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL DEL CONGRESO
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2331&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS CDMX" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2352&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMAGEN TV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",IMAGEN TV HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2606&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACADEMIA" tvg-logo="" group-title="(no group)" tvg-shift="-5",ACADEMIA
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2703&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTIMEDIOS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MULTIMEDIOS HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : INFANTILES : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : INFANTILES : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="tooncast.la" tvg-name="TOONCAST" tvg-logo="" group-title="(no group)" tvg-shift="-5",TOONCAST
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=108&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="Discoverykids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY KIDS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=109&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="NICK" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICK
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=110&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyDX.mx" tvg-name="DISNEY XD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=111&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="(no group)" tvg-shift="-5",CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=112&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Nick2" tvg-name="NICK 2" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICK 2
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="NICKTOONS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICKTOONS
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Nickjr" tvg-name="NICK JR" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICK JR
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=117&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="Disney.mx" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyDX.mx" tvg-name="DISNEY XD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISNEY XD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=111&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="Disneyjr.mx" tvg-name="DISNEY JR" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISNEY JR
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=118&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="(no group)" tvg-shift="-5",CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="Boomerang.cl" tvg-name="BOOMERANG" tvg-logo="" group-title="(no group)" tvg-shift="-5",BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=115&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="Babycl" tvg-name="BABY TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",BABY TV
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=116&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Nickjr" tvg-name="NICK JR" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICK JR
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=117&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Disneyjr.mx" tvg-name="DISNEY JR" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=118&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="NICKTOONS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICKTOONS SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.mx" tvg-name="BABY FIRST" tvg-logo="" group-title="(no group)" tvg-shift="-5",BABY FIRST
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1984&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="Nick2" tvg-name="NICK 2" tvg-logo="" group-title="(no group)" tvg-shift="-5",NICK 2
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO KIDS" tvg-logo="" group-title="(no group)" tvg-shift="-5",NAT GEO KIDS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="(no group)" tvg-shift="-5",CARTOONCITO
+http://user.tvcluboficial.com/stream/nov/Nov/11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONCE NINOS (CLASES)" tvg-logo="" group-title="(no group)" tvg-shift="-5",ONCE NINOS (CLASES)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3315&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIT ME" tvg-logo="" group-title="(no group)" tvg-shift="-5",BIT ME
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : PELICULAS : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : PELICULAS : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3CINE" tvg-logo="" group-title="(no group)" tvg-shift="-5",A3CINE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3112&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",A3SERIES
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CINEMA" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="tbs.la" tvg-name="TBS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TBS SD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=81&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DE PELICULA" tvg-logo="" group-title="(no group)" tvg-shift="-5",DE PELICULA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=335&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="DE PELICULA +" tvg-logo="" group-title="(no group)" tvg-shift="-5",DE PELICULA +
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="goldenpremier.la" tvg-name="GOLDEN +" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOLDEN +
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="GOLDEN" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOLDEN
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="golden.la" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOLDEN EDGE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=124&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="goldenpremier.la" tvg-name="GOLDEN +" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="(no group)" tvg-shift="-5",MultiPremier
+http://user.tvcluboficial.com/stream/nov/Nov/294.m3u8
 #EXTINF:-1 tvg-id="tnt.cl" tvg-name="TNT" tvg-logo="" group-title="(no group)" tvg-shift="-5",TNT
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=126&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="TNT SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=71&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="tcm.la" tvg-name="TCM" tvg-logo="" group-title="(no group)" tvg-shift="-5",TCM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=128&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="space.cl" tvg-name="SPACE" tvg-logo="" group-title="(no group)" tvg-shift="-5",SPACE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=129&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC" tvg-logo="" group-title="(no group)" tvg-shift="-5",AMC
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=131&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/space.png" group-title="(no group)" tvg-shift="-5",SPACE SUR
+http://user.tvcluboficial.com/stream/nov/Nov/751.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.cl" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="(no group)" tvg-shift="-5",STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=132&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I SAT" tvg-logo="" group-title="(no group)" tvg-shift="-5",I SAT
@@ -177,110 +221,134 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=135&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=136&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILMS & ARTS" tvg-logo="" group-title="(no group)" tvg-shift="-5",FILMS & ARTS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=137&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="(no group)" tvg-shift="-5",FX
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=60&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FX HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXM" tvg-logo="" group-title="(no group)" tvg-shift="-5",FXM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=138&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXM SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FXM SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXM SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FXM 2
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX SERIES
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="STAR" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="STAR HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR SERIES
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=139&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MORBIDO" tvg-logo="" group-title="(no group)" tvg-shift="-5",MORBIDO
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=140&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="FOX MOVIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/star_series.png" group-title="(no group)" tvg-shift="-5",STAR SERIES SUR
+http://user.tvcluboficial.com/stream/nov/Nov/745.m3u8
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="STAR HITS" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR HITS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=146&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="(no group)" tvg-shift="-5",STAR HITS SUR
+http://user.tvcluboficial.com/stream/nov/Nov/747.m3u8
+#EXTINF:-1 tvg-id="foxaction.la" tvg-name="STAR ACTION" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR ACTION
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=336&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR CINEMA" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR CINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="STAR CLASSICS" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR CLASSICS
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="foxlife.la" tvg-name="STAR LIFE" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR LIFE
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=77&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/star_comedy.png" group-title="(no group)" tvg-shift="-5",STAR COMEDY
+http://user.tvcluboficial.com/stream/nov/Nov/150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="(no group)" tvg-shift="-5",STAR FUN
+http://user.tvcluboficial.com/stream/nov/Nov/49.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="(no group)" tvg-shift="-5",HBO
+http://user.tvcluboficial.com/stream/nov/Nov/62.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="(no group)" tvg-shift="-5",HBO (EN)
+http://user.tvcluboficial.com/stream/nov/Nov/723.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="(no group)" tvg-shift="-5",HBO 2
+http://user.tvcluboficial.com/stream/nov/Nov/300.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="(no group)" tvg-shift="-5",HBO 2 (EN)
+http://user.tvcluboficial.com/stream/nov/Nov/724.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="(no group)" tvg-shift="-5",HBO FAMILY
+http://user.tvcluboficial.com/stream/nov/Nov/63.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="(no group)" tvg-shift="-5",HBO PLUS
+http://user.tvcluboficial.com/stream/nov/Nov/64.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="(no group)" tvg-shift="-5",HBO PLUS (EN)
+http://user.tvcluboficial.com/stream/nov/Nov/722.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="(no group)" tvg-shift="-5",HBO XTREME
+http://user.tvcluboficial.com/stream/nov/Nov/814.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="(no group)" tvg-shift="-5",HBO XTREME 2
+http://user.tvcluboficial.com/stream/nov/Nov/841.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="(no group)" tvg-shift="-5",STARZ CINEMA
+http://user.tvcluboficial.com/stream/nov/Nov/680.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="(no group)" tvg-shift="-5",STARZ COMEDY
+http://user.tvcluboficial.com/stream/nov/Nov/681.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="(no group)" tvg-shift="-5",STARZ ENCORE ACTION
+http://user.tvcluboficial.com/stream/nov/Nov/682.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="(no group)" tvg-shift="-5",STARZ ENCORE BLACK
+http://user.tvcluboficial.com/stream/nov/Nov/683.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="(no group)" tvg-shift="-5",STARZ ENCORE FAMILY
+http://user.tvcluboficial.com/stream/nov/Nov/684.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="CINECANAL" tvg-logo="" group-title="(no group)" tvg-shift="-5",CINECANAL
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=149&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="" group-title="(no group)" tvg-shift="-5",CINEMAX
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=158&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC" tvg-logo="" group-title="(no group)" tvg-shift="-5",AMC
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=328&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DE PELICULA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DE PELICULA SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=335&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="FOX ACTION" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX ACTION
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=336&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC" tvg-logo="" group-title="(no group)" tvg-shift="-5",AMC 2
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=131&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="paramountchannel.la" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="(no group)" tvg-shift="-5",PARAMOUNT CHANNEL
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1726&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX CINEMA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX CINEMA SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="FOX CLASSICS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX CLASSICS SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CINEMA" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CINEMA
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1787&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEMUNDO INTERNACIONAL HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SONY" tvg-logo="" group-title="(no group)" tvg-shift="-5",SONY
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="warner.mx" tvg-name="WARNER" tvg-logo="" group-title="(no group)" tvg-shift="-5",WARNER
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="" group-title="(no group)" tvg-shift="-5",E!
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=55&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="warner.mx" tvg-name="WARNER HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",WARNER HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=205&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=57&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNIVERSAL HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=207&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-name="SYFY" tvg-logo="" group-title="(no group)" tvg-shift="-5",SYFY
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=59&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="(no group)" tvg-shift="-5",FX
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=60&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="" group-title="(no group)" tvg-shift="-5",A&E
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=62&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="" group-title="(no group)" tvg-shift="-5",AXN
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=64&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICABLE SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNICABLE SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=66&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",SUNDANCE TV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=69&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="tntseries.cl" tvg-name="TNT SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",TNT SERIES
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=71&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLITZ" tvg-logo="" group-title="(no group)" tvg-shift="-5",GLITZ
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=76&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOURMET" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOURMET
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxlife.la" tvg-name="FOX LIFE" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=77&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISTRITO COMEDIA SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=78&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TRUTV" tvg-logo="" group-title="(no group)" tvg-shift="-5",TRUTV
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=79&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="TL NOVELAS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TL NOVELAS SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=83&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="(no group)" tvg-shift="-5",LIFETIME
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="antena3.co" tvg-name="ANTENA 3" tvg-logo="" group-title="(no group)" tvg-shift="-5",ANTENA 3
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=199&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="warner.mx" tvg-name="WARNER HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",WARNER HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=205&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNIVERSAL HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FX HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TRUTV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TRUTV HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=215&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="holatv.co" tvg-name="HOLA TV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",HOLA TV HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=219&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="(no group)" tvg-shift="-5",COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=340&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="comedycentral.lac" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",COMEDY CENTRAL SD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=341&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNICABLE" tvg-logo="" group-title="(no group)" tvg-shift="-5",UNICABLE
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1499&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MAS CHIC" tvg-logo="" group-title="(no group)" tvg-shift="-5",MAS CHIC
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1842&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3SERIES" tvg-logo="" group-title="(no group)" tvg-shift="-5",A3SERIES
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN +" tvg-logo="" group-title="(no group)" tvg-shift="-5",ESPN +
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="(no group)" tvg-shift="-5",CINE LATINO
+http://user.tvcluboficial.com/stream/nov/Nov/295.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="(no group)" tvg-shift="-5",CINE ACCION
+http://user.tvcluboficial.com/stream/nov/Nov/699.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="(no group)" tvg-shift="-5",CINE ACCION SAGAS
+http://user.tvcluboficial.com/stream/nov/Nov/700.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="(no group)" tvg-shift="-5",CINE COMEDIA
+http://user.tvcluboficial.com/stream/nov/Nov/695.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="(no group)" tvg-shift="-5",CINE COMEDIA 2
+http://user.tvcluboficial.com/stream/nov/Nov/696.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="(no group)" tvg-shift="-5",CINE FICCION / FANTASIA
+http://user.tvcluboficial.com/stream/nov/Nov/709.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="(no group)" tvg-shift="-5",CINE FICCION / FANTASIA 2
+http://user.tvcluboficial.com/stream/nov/Nov/710.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="(no group)" tvg-shift="-5",CINE FICCION / FANTASIA SAGAS
+http://user.tvcluboficial.com/stream/nov/Nov/711.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="(no group)" tvg-shift="-5",CINE INFANTIL
+http://user.tvcluboficial.com/stream/nov/Nov/687.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="(no group)" tvg-shift="-5",CINE INFANTIL SAGAS
+http://user.tvcluboficial.com/stream/nov/Nov/694.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="(no group)" tvg-shift="-5",CINE MARVEL
+http://user.tvcluboficial.com/stream/nov/Nov/697.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="(no group)" tvg-shift="-5",CINE ROMANCE
+http://user.tvcluboficial.com/stream/nov/Nov/689.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="(no group)" tvg-shift="-5",CINE TERROR
+http://user.tvcluboficial.com/stream/nov/Nov/693.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="(no group)" tvg-shift="-5",CINE ZOMBIES
+http://user.tvcluboficial.com/stream/nov/Nov/688.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España",CANAL+ ACCION
+http://user.tvcluboficial.com/stream/nov/Nov/364.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : DEPORTES : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : DEPORTES : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="" group-title="(no group)" tvg-shift="-5",ESPN
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=168&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="espn-2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="(no group)" tvg-shift="-5",ESPN 2
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=169&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN +" tvg-logo="" group-title="(no group)" tvg-shift="-5",ESPN +
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=167&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=170&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX SPORTS 2
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN" tvg-logo="" group-title="(no group)" tvg-shift="-5",TUDN
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOX SPORTS 3
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLF" tvg-logo="" group-title="(no group)" tvg-shift="-5",GOLF
@@ -289,44 +357,110 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=179&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=180&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-logo="" group-title="(no group)" tvg-shift="-5",ESPN 3
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=345&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN HD (2)" tvg-logo="" group-title="(no group)" tvg-shift="-5",TUDN HD (2)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="(no group)" tvg-shift="-5",TUDN 
+http://user.tvcluboficial.com/stream/nov/Nov/698.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN" tvg-logo="" group-title="(no group)" tvg-shift="-5",TUDN (2)
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="(no group)" tvg-shift="-5",TUDN (3)
+http://user.tvcluboficial.com/stream/nov/Nov/822.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN HD (2)" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="(no group)" tvg-shift="-5",TUDN HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tudn.png" group-title="(no group)" tvg-shift="-5",TUDN USA
+http://user.tvcluboficial.com/stream/nov/Nov/86.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="(no group)" tvg-shift="-5",AFIZZIONADOS
+http://user.tvcluboficial.com/stream/nov/Nov/878.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="(no group)" tvg-shift="-5",TVC Deportes
+http://user.tvcluboficial.com/stream/nov/Nov/837.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/goltv.png" group-title="(no group)" tvg-shift="-5",Gol TV
+http://user.tvcluboficial.com/stream/nov/Nov/287.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="(no group)" tvg-shift="-5",BEINSPORTS
+http://user.tvcluboficial.com/stream/nov/Nov/753.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="(no group)" tvg-shift="-5",BEINSPORTS Ñ
+http://user.tvcluboficial.com/stream/nov/Nov/761.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADRENALINA SPORTS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC DEPORTES" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVC DEPORTES
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="(no group)" tvg-shift="-5",UNIVISION DEPORTES
+http://user.tvcluboficial.com/stream/nov/Nov/373.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/play.png" group-title="(no group)" tvg-shift="-5",UNIVISION TDN
+http://user.tvcluboficial.com/stream/nov/Nov/100.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="(no group)" tvg-shift="-5",CCLARO SPORTS
+http://user.tvcluboficial.com/stream/nov/Nov/328.m3u8
+#EXTINF:-1 tvg-id="clarosports.co" tvg-name="CLARO SPORTS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CLARO SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/f1.png" group-title="(no group)" tvg-shift="-5",Formula 1 TV (F1)
+http://user.tvcluboficial.com/stream/nov/Nov/192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="(no group)" tvg-shift="-5"",TYC SPORTS
+http://user.tvcluboficial.com/stream/nov/Nov/274.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/winsports.png" group-title="(no group)" tvg-shift="-5",WIN SPORTS
+http://user.tvcluboficial.com/stream/nov/Nov/292.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",WIN SPORTS +
+http://user.tvcluboficial.com/stream/nov/Nov/881.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/ufc.png" group-title="(no group)" tvg-shift="-5",UFC NETWORK
+http://user.tvcluboficial.com/stream/nov/Nov/97.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/mlb.png" group-title="(no group)" tvg-shift="-5",MLB NETWORK
+http://user.tvcluboficial.com/stream/nov/Nov/293.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/nfl.png" group-title="(no group)" tvg-shift="-5",NFL NETWORK
+http://user.tvcluboficial.com/stream/nov/Nov/204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/nba.png" group-title="(no group)" tvg-shift="-5",NBA
+http://user.tvcluboficial.com/stream/nov/Nov/838.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="(no group)" tvg-shift="-5",DIRECTV SPORTS
+http://user.tvcluboficial.com/stream/nov/Nov/259.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="(no group)" tvg-shift="-5",DIRECTV SPORTS 2
+http://user.tvcluboficial.com/stream/nov/Nov/667.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="(no group)" tvg-shift="-5",MOVISTAR DEPORTES
+http://user.tvcluboficial.com/stream/nov/Nov/366.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="(no group)" tvg-shift="-5",MOVISTAR DEPORTES 2
+http://user.tvcluboficial.com/stream/nov/Nov/367.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España",MOVISTAR XTRA
+http://user.tvcluboficial.com/stream/nov/Nov/372.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : CULTURA : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : CULTURA : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAS" tvg-logo="" group-title="(no group)" tvg-shift="-5",LAS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2089&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HAVOC" tvg-logo="" group-title="(no group)" tvg-shift="-5",HAVOC
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC DEPORTES" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVC DEPORTES
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2157&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="clarosports.co" tvg-name="CLARO SPORTS HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CLARO SPORTS HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MORBIDO" tvg-logo="" group-title="(no group)" tvg-shift="-5",MORBIDO
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=140&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIFETIME" tvg-logo="" group-title="(no group)" tvg-shift="-5",LIFETIME
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TRUTV" tvg-logo="" group-title="(no group)" tvg-shift="-5",TRUTV
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=79&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TRUTV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TRUTV HD
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=215&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FUEL TV HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2587&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY ID
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2376&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="(no group)" tvg-shift="-5",ANIMAL PLANET
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2378&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="history.mx" tvg-name="HISTORY" tvg-logo="" group-title="(no group)" tvg-shift="-5",HISTORY
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/h2.png" group-title="(no group)" tvg-shift="-5",H2
+http://user.tvcluboficial.com/stream/nov/Nov/61.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="" group-title="(no group)" tvg-shift="-5",NAT GEO
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=91&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="(no group)" tvg-shift="-5",NAT GEO WILD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY ID" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2376&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY THEATER
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H&H" tvg-logo="" group-title="(no group)" tvg-shift="-5",H&H
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=96&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)" tvg-shift="-5",TLC
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=97&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY SCIENCE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=98&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY CIVILIZATION
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=99&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY WORLD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.la" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H&H" tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="(no group)" tvg-shift="-5",H&H
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=96&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="(no group)" tvg-shift="-5",H&H SUR
+http://user.tvcluboficial.com/stream/nov/Nov/742.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)" tvg-shift="-5",TLC
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=97&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="tve.sp" tvg-name="TVE" tvg-logo="" group-title="(no group)" tvg-shift="-5",TVE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=198&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOPPING" tvg-logo="" group-title="(no group)" tvg-shift="-5",SHOPPING
@@ -335,43 +469,53 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1943&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR TVE" tvg-logo="" group-title="(no group)" tvg-shift="-5",STAR TVE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2375&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo.la" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="(no group)" tvg-shift="-5",DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2379&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CURIOSITY STREAM" tvg-logo="" group-title="(no group)" tvg-shift="-5",CURIOSITY STREAM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2594&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : MUSICA : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : MUSICA : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="mtvlive.la" tvg-name="MTV LIVE" tvg-logo="" group-title="(no group)" tvg-shift="-5",MTV LIVE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=211&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="mtv.co" tvg-name="MTV" tvg-logo="" group-title="(no group)" tvg-shift="-5",MTV
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=212&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="mtvhits.cl" tvg-name="MTV HITS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MTV HITS SD
+#EXTINF:-1 tvg-id="mtvhits.cl" tvg-name="MTV HITS SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MTV HITS
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=213&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",VH1 CLASSIC SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",VH1 CLASSIC
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=214&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",VH1 SD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=217&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEHIT URBANO SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEHIT URBANO SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="(no group)" tvg-shift="-5",TELEHIT MUSIC
+http://user.tvcluboficial.com/stream/nov/Nov/91.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="(no group)" tvg-shift="-5",TELEHIT MUSIC 2
+http://user.tvcluboficial.com/stream/nov/Nov/154.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEHIT URBANO SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEHIT URBANO
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=218&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEHIT +" tvg-logo="" group-title="(no group)" tvg-shift="-5",TELEHIT +
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=220&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANDAMAX SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",BANDAMAX SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANDAMAX SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",BANDAMAX
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=221&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC" tvg-logo="" group-title="(no group)" tvg-shift="-5",AZ CLIC
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=223&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",VH1 HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/htv.png" group-title="(no group)" tvg-shift="-5",HTV
+http://user.tvcluboficial.com/stream/nov/Nov/66.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : NOTICIAS : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : NOTICIAS : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
 #EXTINF:-1 tvg-id="forotv.mx" tvg-name="FOROTV HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOROTV HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="FOROTV SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOROTV SD
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="FOROTV SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",FOROTV
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=19&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="" group-title="(no group)" tvg-shift="-5",ADN40
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=40&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="" group-title="(no group)" tvg-shift="-5",ADN40 (2)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",ADN 40 HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=184&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN" tvg-logo="" group-title="(no group)" tvg-shift="-5",CNN
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=185&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CNN SD
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CNN 2
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=186&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="cnn.int" tvg-name="CNN Ñ SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CNN Ñ SD
+#EXTINF:-1 tvg-id="cnn.int" tvg-name="CNN Ñ SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",CNN 3
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=187&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOBI" tvg-logo="" group-title="(no group)" tvg-shift="-5",WOBI
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=102&p=3&k=srregio&f=.m3u8
@@ -379,7 +523,7 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=102&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=188&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="" group-title="(no group)" tvg-shift="-5",BLOOMBERG
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=190&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",BBC SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",BBC
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=191&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL JAAZERA" tvg-logo="" group-title="(no group)" tvg-shift="-5",AL JAAZERA
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=192&p=3&k=srregio&f=.m3u8
@@ -395,7 +539,7 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=203&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=999&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MILENIO HD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MILENIO HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1250&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MILENIO SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MILENIO SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MILENIO SD" tvg-logo="" group-title="(no group)" tvg-shift="-5",MILENIO
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXCELSIOR TV" tvg-logo="" group-title="(no group)" tvg-shift="-5",EXCELSIOR TV
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8
@@ -403,3 +547,147 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1649&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRANCE 24" tvg-logo="" group-title="(no group)" tvg-shift="-5",FRANCE 24
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL DEL CONGRESO" tvg-logo="" group-title="(no group)" tvg-shift="-5",CANAL DEL CONGRESO
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2331&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-name=": : 24/7 : :" tvg-logo="" group-title="(no group)" tvg-shift="-5",: : 24/7 : :
+https://mdstrm.com/live-stream-playlist/609b6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="(no group)" tvg-shift="-5",Animaniacs 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/677.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/bleach.png" group-title="(no group)" tvg-shift="-5",Bleach 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/883.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="(no group)" tvg-shift="-5",Bob Esponja 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/518.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="(no group)" tvg-shift="-5",Breaking Bad 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/846.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="(no group)" tvg-shift="-5",Brickleberry 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/789.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="(no group)" tvg-shift="-5",Caballeros del Zodiaco 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/427.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="(no group)" tvg-shift="-5",Candy Candy 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/808.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="(no group)" tvg-shift="-5",Cantinflas 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/428.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/catdog.png" group-title="(no group)" tvg-shift="-5",CatDog 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/785.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="(no group)" tvg-shift="-5",Chapulin Colorado 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/418.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="(no group)" tvg-shift="-5",Chespirito 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/417.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/coraje.png" group-title="(no group)" tvg-shift="-5",Coraje el Perro Cobarde 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/519.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="(no group)" tvg-shift="-5",Dinosaurios 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/670.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="(no group)" tvg-shift="-5",Doraemon 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/521.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="(no group)" tvg-shift="-5",Dragon Ball 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/425.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="(no group)" tvg-shift="-5",Dragon Ball GT 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/520.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="(no group)" tvg-shift="-5",Dragon Ball Super 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/424.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="(no group)" tvg-shift="-5",Dragon Ball Z 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/329.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="(no group)" tvg-shift="-5",El Chavo Animado 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/790.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="(no group)" tvg-shift="-5",El Chavo del 8 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/400.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="(no group)" tvg-shift="-5",El Coyote y el Correcaminos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/429.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="(no group)" tvg-shift="-5",El Gallo Claudio 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/845.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/gumball.png" group-title="(no group)" tvg-shift="-5",El Increible Mundo de Gumball 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/791.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="(no group)" tvg-shift="-5",El Pajaro Loco 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/525.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="(no group)" tvg-shift="-5",El Principel del Rap 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/430.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="(no group)" tvg-shift="-5",El Señor de los Cielos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/820.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="(no group)" tvg-shift="-5",Johnny Bravo 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/786.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="(no group)" tvg-shift="-5",La Hora Pico 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/887.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="(no group)" tvg-shift="-5",La Pantera Rosa 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/671.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="(no group)" tvg-shift="-5",La Pequeña Lulu 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/792.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="(no group)" tvg-shift="-5",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/886.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="(no group)" tvg-shift="-5",La Vaca y ElPollito 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/809.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="(no group)" tvg-shift="-5",Le Temes a la Oscuridad 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/888.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="(no group)" tvg-shift="-5",Los 3 Chiflados 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/423.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="(no group)" tvg-shift="-5",Los Años Maravillosos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/810.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="(no group)" tvg-shift="-5",Los Padrinos Magicos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/813.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="(no group)" tvg-shift="-5",Los Picapiedra 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/669.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="(no group)" tvg-shift="-5",Los Pinguinos de Madagascar 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/794.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="(no group)" tvg-shift="-5",Los Pitufos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/795.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="(no group)" tvg-shift="-5",Los Reyes de la Colina 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/796.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="(no group)" tvg-shift="-5",Los Simpson 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/357.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="(no group)" tvg-shift="-5",Los Supersonicos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/797.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="(no group)" tvg-shift="-5",Los Vengadores Unidos 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/818.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="(no group)" tvg-shift="-5",Malcolm 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/798.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="(no group)" tvg-shift="-5",Max Steel 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/880.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="(no group)" tvg-shift="-5",Mr. Bean 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/431.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="(no group)" tvg-shift="-5",Naruto 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/523.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="(no group)" tvg-shift="-5",One Punch Man 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/661.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="(no group)" tvg-shift="-5",Padre de Familia 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/416.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="(no group)" tvg-shift="-5",Patoaventuras 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/819.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="(no group)" tvg-shift="-5",Patrulla Canina 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="(no group)" tvg-shift="-5",Peppa Pig 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/787.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="(no group)" tvg-shift="-5",Pinky y Cerebro 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/721.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="(no group)" tvg-shift="-5",Pocoyo 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/799.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="(no group)" tvg-shift="-5",Pokemon 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/420.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="(no group)" tvg-shift="-5",Prison Break 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/884.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/ranma.png" group-title="(no group)" tvg-shift="-5",Ranma 1/2 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/419.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="(no group)" tvg-shift="-5",Sakura Card Captor 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/672.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="(no group)" tvg-shift="-5",Samurai X 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/663.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="(no group)" tvg-shift="-5",Scooby Doo 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/422.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="(no group)" tvg-shift="-5",Smallville 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="(no group)" tvg-shift="-5",South Park 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/674.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="(no group)" tvg-shift="-5",Spiderman 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/889.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="(no group)" tvg-shift="-5",Super Campeones 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/432.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="(no group)" tvg-shift="-5",The Big Bang Theory 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/676.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="(no group)" tvg-shift="-5",The Walking Dead 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/800.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="(no group)" tvg-shift="-5",Tom y Jerry 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="(no group)" tvg-shift="-5",TrollHunters 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/662.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="(no group)" tvg-shift="-5",Two And a Half Men 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/675.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="(no group)" tvg-shift="-5",Yu-Gi-Oh! 24/7
+http://user.tvcluboficial.com/stream/nov/Nov/664.m3u8
